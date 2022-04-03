@@ -12,7 +12,7 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 
 ## File
 
-* MechaCarChallenge.RScript: [MechaCarChallenge](MechaCarChallenge.RScript)
+* MechaCarChallenge.RScript: [MechaCarChallenge](MechaCarChallenge.RScript.R)
 
 ## Deliverable 1
 
