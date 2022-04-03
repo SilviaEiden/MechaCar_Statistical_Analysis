@@ -18,33 +18,33 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 
 Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
 
-![linear](linear.png)
+![linear](Images/linear.png)
 
 ## Deliverable 2
 
 Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
 
-![totalsummary](totalsummary.png)
+![totalsummary](Images/totalsummary.png)
 
-![lotsummary](lotsummary.png)
+![lotsummary](Images/lotsummary.png)
 
 ## Deliverable 3
 
 Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
 
-* All lots
+* **All lots**
 
-![lots](lots.png)
+![lots](Images/lots.png)
 
-* Lot 1
+* **Lot 1**
 
-![lot1](lot1.png)
+![lot1](Images/lot1.png)
 
-* Lot 2
+* **Lot 2**
 
-![lot2](lot2.png)
+![lot2](Images/lot2.png)
 
-* Lot 3
+* **Lot 3**
 
-![lot3](lot3.png)
+![lot3](Images/lot3.png)
 
